@@ -1,0 +1,16 @@
+C:\MyJob\Mine\Rockyou\ChangeCalculator\ChangeCalculator\obj\x86\Debug\ChangeCalculator.Properties.Resources.resources
+C:\MyJob\Mine\Rockyou\ChangeCalculator\ChangeCalculator\obj\x86\Debug\ChangeCalculator.csproj.GenerateResource.Cache
+C:\MyJob\Mine\Rockyou\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.exe
+C:\MyJob\Mine\Rockyou\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.pdb
+C:\MyJob\Mine\Rockyou\ChangeCalculator\ChangeCalculator\obj\x86\Debug\ChangeCalculator.exe
+C:\MyJob\Mine\Rockyou\ChangeCalculator\ChangeCalculator\obj\x86\Debug\ChangeCalculator.pdb
+C:\MyJob\Mine\Rockyou\ChangeCalculator\ChangeCalculator\obj\x86\Debug\ChangeCalculator.Test.resources
+C:\MyJob\Mine\Rockyou\ChangeCalculator\ChangeCalculator\obj\x86\Debug\ChangeCalculator.csprojResolveAssemblyReference.cache
+C:\MyJob\Mine\Rockyou\ChangeCalculator\Rockyou\ChangeCalculator\obj\x86\Debug\ChangeCalculator.exe
+C:\MyJob\Mine\Rockyou\ChangeCalculator\Rockyou\ChangeCalculator\obj\x86\Debug\ChangeCalculator.pdb
+C:\MyJob\Mine\Rockyou\ChangeCalculator\Rockyou\ChangeCalculator\bin\Debug\ChangeCalculator.exe
+C:\MyJob\Mine\Rockyou\ChangeCalculator\Rockyou\ChangeCalculator\bin\Debug\ChangeCalculator.pdb
+C:\MyJob\Mine\Rockyou\ChangeCalculator\Rockyou\ChangeCalculator\obj\x86\Debug\ChangeCalculator.csprojResolveAssemblyReference.cache
+C:\MyJob\Mine\Rockyou\ChangeCalculator\Rockyou\ChangeCalculator\obj\x86\Debug\ChangeCalculator.Properties.Resources.resources
+C:\MyJob\Mine\Rockyou\ChangeCalculator\Rockyou\ChangeCalculator\obj\x86\Debug\ChangeCalculator.Test.resources
+C:\MyJob\Mine\Rockyou\ChangeCalculator\Rockyou\ChangeCalculator\obj\x86\Debug\ChangeCalculator.csproj.GenerateResource.Cache
